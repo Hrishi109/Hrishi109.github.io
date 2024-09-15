@@ -1,4 +1,6 @@
-# Your Name
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one# Your Name
 
 Welcome to my portfolio! Here you'll find some of the projects I've worked on, along with a little about me.
 
