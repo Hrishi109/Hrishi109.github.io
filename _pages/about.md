@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a MS candidate in the Mechatrnics-Robotics Department at Worcester Polytechnic Institute(WPI) and working as Research Assistant under Professor Adam Powell (MIT). My research interest lies in Reinforcement Learning, Motion Planning and Computer vision. I am also interested in the interpretability of learning-based methods for autonomous navigation. I have combined tools like multi-agent reinforcement learning (MARL), graph neural networks, foundational models, and language models for my projects and research.
+I am currently a MS candidate in the Mechatronics-Robotics Department at Worcester Polytechnic Institute(WPI) and working as Research Assistant under Professor Adam Powell (MIT). My research interest lies in Reinforcement Learning, Motion Planning and Computer vision. I am also interested in the interpretability of learning-based methods for autonomous navigation. I have combined tools like multi-agent reinforcement learning (MARL), graph neural networks, foundational models, and language models for my projects and research.
 
 My PhD thesis is on learning-based methods for multi-agent robotics focussing on:
 
