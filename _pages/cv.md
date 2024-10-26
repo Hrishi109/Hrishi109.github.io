@@ -11,9 +11,10 @@ redirect_from:
 
 # Education
 
-- PhD, Aeronautics and Astronautics, MIT, (Expected 2025)
-- SM, Aeronautics and Astronautics, MIT, 2022
-- B.Tech, Electrical Engineering, IIT Madras, 2020
+- MS, Mechatronics Robotics and Automation Engineering, Worcester Polytechnic Institute(WPI), (Expected 2026)
+- Eaton University, Design for Six Sigma Green Belt, Eaton, 2023
+- Minor degree, Instrumentaion and Control Engineering, College of Engineering Pune, 2020
+- B.Tech, Mechanical Engineering, College of Engineering Pune, 2020
 
 # Theses
 
@@ -26,43 +27,48 @@ redirect_from:
 
 # Work experience
 
-- DINaMo Lab, MIT, Graduate Research Assistant - Fall 2020-Present
+- Center for Resource Recovery Recycling (CR3), WPI, Graduate Research Assistant - Fall 2024-Present
 
-  - Advisor: [Prof. Hamsa Balakrishnan](https://www.mit.edu/~hamsa/index.html)
+  - Advisor: [Prof. Adam Powell IV](linkedin.com/in/hazelsct)
     - Developed and deployed a language model-based architecture for multi-agent embodied robotic tasks resulting in 30% improvement in task completion.
     - Designed a graph neural network-based architecture for scaling multi-agent reinforcement learning algorithms in limited-information scenarios resulting in 1.9× improvement in success rates.
     - Exploring LLMs for creating interpretable communication protocols for multi-agent reinforcement learning.
     - Developed a hybrid solution combining reinforcement learning (RL) and integer programming to optimize crew schedules, achieving 33% - 48% fewer disruptions compared to the baseline formulation.
 
-- MERL, Cambridge, MA, Research Scientist Intern, Summer 2024
+- Fire Protection Engineering, WPI, Teaching Assistant, Aug 2024 - Oct-2024
 
-  - Advisor: [Dr. Anoop Cherian](https://users.cecs.anu.edu.au/~cherian/)
+  - Advisor: [Prof. Reza Ziazi](linkedin.com/in/ziazi)
     - Developed a multimodal language model for aligning visual, aural, and language modalities for autonomous navigation in embodied robotic environments leading to 21% improvement in prediction accuracy of navigation actions.
     - Implemented a data-distributed parallel RL model to train a conversational embodied robotic agent to include inputs from the trained multimodal language model.
 
-- MERL, Cambridge, MA, Research Scientist Intern, Summer 2023
+- TATA, India, Senior Engineer, Aug 2024
 
-  - Advisor: [Dr. Abraham Vinod](https://abyvinod.github.io/)
+  - Advisor: [Mr. Shelav Jain (Delft Universty of Technology)](linkedin.com/in/shelavjain)
     - Developed a data-driven bi-level approach incorporating multi-armed bandits and integer programming to enhance multi-agent environmental monitoring strategies
     - Devised a real-time implementable graph-based heuristic planner, significantly improving solution speed
     - Obtained anytime guarantees and upper bounds on computing time as well as task completion time
 
-- TCS Research and Innovation Lab, Mumbai, India, Research Intern, Summer 2019
+- EATON, India, System Design Engineer for Cost-out, April 2021 - March 2024
 
-  - Advisor: [Dr. Harshad Khadilkar](https://sites.google.com/view/harshad/home)
+  - Advisor: [Mr. Aniruddha Deo, Mrs. Nupur Kher Indian Institute of Management(IIM) Ahmedabad](linkedin.com/in/nupur-kher-17345a15)
     - Co-developed a heuristic + reinforcement learning-based method for the online version of 3D-bin packing problem to improve the packing efficiency by 3% over heuristic-based methods along with speeding up prediction by a factor of 6.
     - Experimented with a behavioural cloning + heuristics model to achieve 85% average packing efficiency
 
-- RISE Lab, IIT Madras, UnderFall 2018-2019: Undergraduate Research Assistant
-
-  - Advisor: [Prof. Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/)
+- Repos Energy : National Startup Award, India, IOT product Design Engineer, 2020 - April 2021
+  - Advisor: [Mr. Chetan Walunj](https://www.linkedin.com/in/chetan-walunj-bb7221218/)
     - Utilized RL to enhance digital transformations on images, optimizing object detection performance in a pre-trained network.
     - Applied graph neural networks for molecule property prediction, achieving a notable ROC-AUC of $0.807$ on the Pseudomonas dataset. Ranked 13th globally in the MIT AI Cures Challenge. [Leaderboard](https://www.aicures.mit.edu/tasks)
 
-- Daimler AG R&D, Sindelfingen, Germany, Research Intern, Summer 2018
-  - Advisor: [Dr. Hannes Gorniaczyk](https://de.linkedin.com/in/gorniaczyk)
+- Honeywell Technologies (Garrett) ,India, Intern, 2019
+  - Advisor: [Mrs Akanksha Nadkarni](linkedin.com/in/akanksha-nadkarni-7734a729)
     - Analyzed the impact of on-board vehicle camera parameters, including _Shutter Speed_ and _Voltage Gains_, on the performance of pre-trained object detection neural networks.
     - Developed a performance matrix to identify the optimal combination of shutter speed and voltage gain, maximizing the F1-score for a pre-trained object detection network.
+
+- Robotics Department R&D (Siemens PLM) , College of Engineering Pune, India, Research Assistant, 2017 - 2020
+  - Advisor: [Dr.S.S.Ohol](linkedin.com/in/dr-shantipal-ohol-8547b620)
+    - Analyzed the impact of on-board vehicle camera parameters, including _Shutter Speed_ and _Voltage Gains_, on the performance of pre-trained object detection neural networks.
+    - Developed a performance matrix to identify the optimal combination of shutter speed and voltage gain, maximizing the F1-score for a pre-trained object detection network.
+    - 
 
 # Skills
 
@@ -116,7 +122,7 @@ redirect_from:
 
 A list of UROPs+MEngs I have mentored:
 
-- Wenqi Ding (EECS, S.B., MIT) 2022, 2024
+- Robotics Team of 40 members (Diverse Courses, COEP) 2019, 2020
 - Vittal Thirumalai (EECS, S.B.+ M.Eng.), 2024
 - Jackson Zhang (EECS, S.B.+ M.Eng.), 2024
 - Adelmo Morrison Orozco (EECS + Math, S.B.) 2024
@@ -154,4 +160,4 @@ A list of UROPs+MEngs I have mentored:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-For a detailed CV/resume please email me at `sidnayak at mit dot edu`
+For a detailed CV/resume please email me at `hnirgude at wpi dot edu`
