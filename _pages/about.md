@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Siddharth's website"
+title: "Welcome to Hrishikesh's website"
 excerpt: ""
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD candidate in the AeroAstro Department at MIT. My research interest lies in multi-agent robotics especially in partially observable settings with limited communication bandwidth. I am also interested in the interpretability of learning-based methods for autonomous navigation. I have combined tools like multi-agent reinforcement learning (MARL), graph neural networks, foundational models, and language models for my research.
+I am currently a MS candidate in the Mechatrnics-Robotics Department at Worcester Polytechnic Institute(WPI) and working as Research Assistant under Professor Adam Powell (MIT). My research interest lies in Reinforcement Learning, Motion Planning and Computer vision. I am also interested in the interpretability of learning-based methods for autonomous navigation. I have combined tools like multi-agent reinforcement learning (MARL), graph neural networks, foundational models, and language models for my projects and research.
 
 My PhD thesis is on learning-based methods for multi-agent robotics focussing on:
 
@@ -20,7 +20,7 @@ My PhD thesis is on learning-based methods for multi-agent robotics focussing on
 
 You can find my publications [here](https://nsidn98.github.io/publications/).
 
-In addition to my research, I like playing musical instruments like guitar, bass, piano, drums, recorder. You can find some of my guitar videos on [instagram](https://www.instagram.com/nsidn98_/).
+In addition to my research, I am a professional Guitarist and love playing musical instrument piano too. 
 I am also into [sketching](https://drive.google.com/drive/folders/1NsuQx0Xl9pQ5V_EsmRd8-qbaLd2zO-Gk), [astrophotography](https://docs.google.com/presentation/d/1IXEQaMT4YNwtfmGf4ktiFaTfVXWCZLqqv2AeThw02LI/edit?usp=sharing), playing tennis, badminton, cricket and swimming.
 
 ## Contact Me
