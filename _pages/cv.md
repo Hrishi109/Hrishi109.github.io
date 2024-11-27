@@ -19,11 +19,11 @@ redirect_from:
 # Theses
 
 - Learning-based Scheduling
-  - S.M. Thesis, Massachusetts Institute of Technology, 2022
-  - Advisor: Prof. Hamsa Balakrishnan
+  - Masters Thesis, Worcester Polytechnic Institute (WPI), 2026
+  - Advisor: Prof. Constantinos Chamzas
 - Reinforcement Learning for Improving Object Detection
-  - Undergraduate Thesis, Indian Institute of Technology Madras, 2020
-  - Advisor: Prof. Balaraman Ravindran
+  - Undergraduate Thesis, College of Engineering Pune (COEP), 2020
+  - Advisor: Prof. S.S.Ohol
 
 # Work experience
 
@@ -50,7 +50,7 @@ redirect_from:
 
 - EATON, India, System Design Engineer for Cost-out, April 2021 - March 2024
 
-  - Advisor: [Mr. Aniruddha Deo, Mrs. Nupur Kher Indian Institute of Management(IIM) Ahmedabad](linkedin.com/in/nupur-kher-17345a15)
+  - Advisor: [Mr. Aniruddha Deo, Mrs. Nupur Kher (IIM A - Indian Institute of Management)](linkedin.com/in/nupur-kher-17345a15)
     - Co-developed a heuristic + reinforcement learning-based method for the online version of 3D-bin packing problem to improve the packing efficiency by 3% over heuristic-based methods along with speeding up prediction by a factor of 6.
     - Experimented with a behavioural cloning + heuristics model to achieve 85% average packing efficiency
 
@@ -81,7 +81,7 @@ redirect_from:
   - PyTorch
   - TensorFlow
 - C, C++
-- ROS (Robot Operating Software)
+- ROS 2 (Robot Operating Software)
 
 # Talks
 
@@ -92,13 +92,8 @@ redirect_from:
 
 ## Conference Reviewing
 
-- AAAI (2021, 2024)
-- CVPR (2024)
-- IROS (2024)
-- IFAC (2024)
-- NeurIPS (2024)
-- ICLR (2024)
-- ACL (2024)
+- Institute Of Physics (IOP 2020)
+
 
 ## Journal Reviewing
 
@@ -123,24 +118,18 @@ redirect_from:
 A list of UROPs+MEngs I have mentored:
 
 - Robotics Team of 40 members (Diverse Courses, COEP) 2019, 2020
-- Vittal Thirumalai (EECS, S.B.+ M.Eng.), 2024
-- Jackson Zhang (EECS, S.B.+ M.Eng.), 2024
-- Adelmo Morrison Orozco (EECS + Math, S.B.) 2024
-- Marina Ten Have (EECS + AI, S.B.) 2024
-- Darren Chen (EECS, S.B.) 2024
-- Daniel Liu (EECS, M.Eng.) 2021-2022
-- Kenneth Choi (EECS, S.B.) 2022
-- Carson Smith (EECS, M.Eng) 2021
-- Laura Peralta (Electrical and Electronics, B.E.; Hampton University) 2021
-- Akila Sarvanan (AeroAstro, S.B.; MIT) 2021
-- Simran Pabla (AeroAstro, M.Eng.; MIT) 2021
+- Team Unlimited of 10 members (First Tech Challenge https://www.ftc0001.org/about-us), 2024
+- Nikita Dodtalle (Eaton), 2023
 
 # Honors and Awards
 
-- R&D 100 Awards - Software and Services Category (2023)
-- USAF Analytics Excellence Award for the Space Training and Readiness Command (STARCOM) (2022)
-- HULT Prize: Chennai Regional WInner and Singapore Regional Finalist (2017-2018)
-- Ranked among the top 1% in the National Standard Examination in Physics (Physics Olympiad) (2016)
+- Research Assitantship and WPIBridge Scholarship (2024)
+- Eaton: E-star Awards for 1) Financial Performance 2) Accountability 3) Passion 4) Engagement from Eaton Management team (2021-2023) 
+- Rotary Rotaract Club : Vice President and International Service Director (2020)
+- National Robocon Competition - MATLAB award (2018-2019)  
+- National Robocon Competition - Best Aesthetic Robot award (2017-2018)
+- Robotics Competition : Regional Winner (2016)
+- Ranked 1 in India - Mathematics subject 12th grade (2016)
 
 # Relevant Coursework
 
