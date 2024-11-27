@@ -1,66 +1,60 @@
 ---
 layout: archive
 title: "About Me"
-permalink: /other/
+permalink: /about_me/
 author_profile: true
 redirect_from:
   - /extracurricular-activities
 ---
 
-# Interests and Hobbies:
-## Sports: ##
-### Formula 1
-The pinnacle of motorsports! I have been watching F1 since my childhood and this was one of the things which motivated me to take up engineering. The amount of engineering which goes into gaining two-tenths of a second on tricky street-circuits like Monaco and technical circuits like Spa, Monza, etc. by changing the front-wing angles, toe etc. and creating innovative solutions within the rules like the DAS system by Mercedes and the double diffuser by Brawn GP has always fascinated me. My favourite constructor has been the [silver arrows](https://www.mercedesamgf1.com/en/) ever since they (re-)entered F1 in 2010 with Michael Schumacher as one of their drivers. Before that I used to like McLaren-Mercedes when they had Hamilton and Alonso as their drivers. Fun fact: I am in the second episode of Netflix's Drive to Survive Season 5.
+# About Me
 
-### Water Polo and Swimming
-I learnt water polo during my second year of undergraduate studies. Fell in love with the speed of the game. It is quite astonishing to me that egg-beating (the thing you do to stay afloat vertically in water) which seemed hard while learning the sport becomes second nature once you get used to it and you do not need to try that hard to stay afloat! Water Polo has helped me improve my stamina and endurance.
+Welcome to my corner of the internet! I am a curious, passionate individual constantly inspired by the world around me. Whether it's engineering challenges, the harmony of music, or the serenity of nature, I find joy in exploring, creating, and connecting.
 
-### Cricket
-Have been playing this since my childhood. Represented a few teams at the competitive level. Transitioned from a bowler to an opening batsman.
+## Interests and Hobbies:
 
-### Other sports I follow and play:
-* Football: Liverpool and Bayern M&uuml;nchen (although I prefer Liverpool over Bayern when they compete in Champions League).
-* Tennis: Roger Federer and Novak Djokovic (I know they are rivals!)
+### Sports:
+#### Cricket
+Cricket has been a lifelong companion, blending strategy, patience, and bursts of brilliance. From the joy of a perfectly timed cover drive to the rush of facing a fierce bowler, cricket has taught me discipline, teamwork, and perseverance. My time as an opening batsman honed my ability to stay calm under pressure and seize opportunities—a mindset I carry into all areas of life.
 
-## Music: ##
-### Instruments
-I learnt to play the harmonium from my grandfather and then later by attending classes. This eventually led me to learn to play the piano. This change was initially quite difficult as one plays a harmonium with only one hand (right in my case) whereas piano is played with both hands. Started learning to play guitar during the pandemic. This led me to build my own electric guitar after coming to MIT. Have started learning drums with the motivation of being able to cover Stairway to Heaven with all instruments used in the song:) I would definitely like to learn a few other instruments like violin and bass guitar.
+#### Badminton and Table Tennis
+The thrill of a sharp rally in badminton or the lightning reflexes needed for table tennis make these sports both exhilarating and grounding. Whether playing for leisure or challenging a worthy opponent, I love the way these games test not only physical agility but also mental sharpness.
 
-### Bands/Artists
-My playlist has genres ranging from rap to classical music. My favorite artists include Pink Floyd, Led Zeppelin, The Beatles, Guns N' Roses, Iron Maiden, Queen, Eminem and many more. 
-Along with this, I also like theme songs and scores from Hans Zimmer, Ramin Djawadi , Brian Tyler ([F1 theme!](https://www.youtube.com/watch?v=8AYy-BcjRXg)), Ludwig G&ouml;ransson, Alan Silvestri and John Williams. I also like listening to Ludovico Einaudi, Wolfgang Mozart, Ludwig van Beethoven, John Bach, Anotonio Vivaldi.
+#### Formula 1
+Few things captivate me like the world of Formula 1. The roar of engines, the brilliance of engineering, and the tactical genius displayed on race day are truly inspiring. I admire how every millisecond matters, from adjusting front-wing angles to designing groundbreaking systems like Mercedes' DAS. Following F1 has deepened my appreciation for teamwork, innovation, and the relentless pursuit of excellence.
 
-<!-- ### Concerts:
-Listening to live music has definitely moved up the things I like to do ever since I started playing multiple instruments. Appreciating the musicians skills 
-List of concer -->
+#### Swimming
+Gliding through water feels like freedom. Swimming has been my sanctuary—a space where my mind quiets, my body moves in rhythm, and every stroke brings a sense of calm and clarity. It's a sport that has built my endurance and instilled in me a love for pushing my limits.
 
-**************************************** 
+---
 
+### Music:
+#### Playing Guitar and Piano
+Music is a universal language, and for me, it speaks volumes. My journey with music began with the piano, learning its complexities and discovering how melodies can evoke powerful emotions. The guitar, with its soulful strings, became an extension of my creativity during the pandemic. Building my own electric guitar was a deeply rewarding project, blending my love for engineering with my passion for music. 
 
-## Languages: ##
-I can speak 6 languages (and understand 7):
-* English
-* German
-* Konkani
-* Marathi
-* Hindi
-* Kannada
-* French
+I find joy in exploring a variety of genres, from the soulful ballads of Pink Floyd to the electrifying energy of Led Zeppelin. Playing music allows me to express myself in ways words cannot, and I’m currently working on mastering "Stairway to Heaven" across multiple instruments.
 
-I would like to learn more languages like Sanskrit, Italian and Spanish along with improving upon Kannada and French and German.
+---
 
+### Adventure:
+#### Hiking
+There’s something magical about standing on a mountaintop, feeling the cool breeze and taking in breathtaking views after a challenging hike. Hiking has taught me to embrace the journey as much as the destination. It’s a wonderful way to reconnect with nature, recharge my spirit, and find inspiration in the beauty of the world around us.
 
-****************************************
-## Sketching: ##
-I generally like drawing fictional characters.
-A few of my [sketches](https://drive.google.com/drive/folders/1NsuQx0Xl9pQ5V_EsmRd8-qbaLd2zO-Gk?usp=sharing). Most of the sketches linked are from when I was a kid and the pandemic break. Sketching has helped me a lot in appreciating the finer details in many of the art pieces as well as music.
-<!-- A few of my [sketches](https://drive.google.com/drive/folders/10i5ru6oahtPOYvSR3Yadbabe0xIXm_x9?usp=sharing). -->
+---
 
-****************************************
-## Photography: ##
-I took this fun astronomy class (12.409) at MIT where I was introduced to astrophotography and different processing techniques. Although, I was interested in astronomy since my undergrad, I never got a chance to formally learn the techniques required for astrophotography till I took this class. You can find my astrophotography photos here. It is quite astonishing how much one could do with a simple telescope and camera (in manual mode) and dark skies!
+### Creativity:
+#### Astrophotography
+Staring at the night sky has always sparked my curiosity about the cosmos. Through astrophotography, I’ve been able to capture the beauty of distant galaxies, nebulae, and constellations. It’s incredible how a simple telescope and a camera can reveal the wonders of the universe. This hobby reminds me of the limitless possibilities of exploration and the small but significant role we play in the grand scheme of things.
 
-****************************************
-## Contact Me ##
-****************************************
-I would be glad to have discussions on any of the above topics related to sports, music, sketching and languages.
+#### Sketching
+Sketching has been a source of joy and mindfulness for me. I particularly enjoy drawing fictional characters, bringing them to life with my own unique perspective. The process of sketching sharpens my attention to detail and allows me to appreciate the artistry in everyday life. Many of my sketches are from my childhood and pandemic days, serving as a creative outlet during challenging times.
+
+---
+
+### Languages:
+I’ve always been fascinated by the power of language to connect people and cultures. I am fluent in six languages: English, German, Konkani, Marathi, Hindi, and Kannada. I can also understand French and am eager to improve my fluency. Learning new languages like Sanskrit, Italian, and Spanish is a goal I hold dear, as it broadens my worldview and deepens my appreciation for the diversity of human expression.
+
+---
+
+## Contact Me:
+I am always open to connecting with like-minded individuals! Whether it’s a conversation about sports strategies, a jam session with music enthusiasts, a shared love for hiking trails, or exchanging thoughts on astrophotography and sketching, I’d love to hear from you. Feel free to reach out—let’s create, collaborate, and grow together!
