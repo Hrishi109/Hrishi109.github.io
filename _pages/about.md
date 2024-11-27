@@ -18,7 +18,7 @@ My MS thesis is on learning-based methods for multi-agent robotics focussing on:
 
 **I am currently on the job market for 2025**.
 
-You can find my publications [here](https://nsidn98.github.io/publications/).
+You can find my publications [here](https://hrishi109.github.io/publications/).
 
 In addition to my research, I am a professional Guitarist and love playing musical instrument piano too. 
 I am also into [sketching](https://drive.google.com/drive/folders/1NsuQx0Xl9pQ5V_EsmRd8-qbaLd2zO-Gk), [astrophotography](https://docs.google.com/presentation/d/1IXEQaMT4YNwtfmGf4ktiFaTfVXWCZLqqv2AeThw02LI/edit?usp=sharing), playing tennis, badminton, cricket and swimming.
